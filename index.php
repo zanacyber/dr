@@ -1,9 +1,9 @@
 <?php
 
 $editions = [
-    ['year' => 2024, 'winner' => 'Big Midrah', 'location' => 'Abidjan', 'image' => 'images/bigmidrah.png', 'photos' => ['images/edit20241.jpg', 'images/edit20242.jpg', 'images/edit20244.jpg']],
-    ['year' => 2023, 'winner' => 'Afanooh', 'location' => 'Dakar', 'image' => 'images/qfronooh.jpg', 'photos' => ['images/edit20231.jpg', 'images/edit20232.jpg', 'images/edit20234.jpg']],
-    ['year' => 2022, 'winner' => 'Afanooh', 'location' => 'Dakar', 'image' => 'images/ar1.png', 'photos' => ['images/ar1.png', 'images/ar1.png']],
+    ['year' => 2024, 'winner' => 'Big Midrah', 'location' => 'BOBO', 'image' => 'images/bigmidrah.png', 'photos' => ['images/edit20241.jpg', 'images/edit20242.jpg', 'images/edit20244.jpg']],
+    ['year' => 2023, 'winner' => 'Afanooh', 'location' => 'BOBO', 'image' => 'images/qfronooh.jpg', 'photos' => ['images/edit20231.jpg', 'images/edit20232.jpg', 'images/edit20234.jpg']],
+    ['year' => 2022, 'winner' => 'Afanooh', 'location' => 'BOBO', 'image' => 'images/ar1.png', 'photos' => ['images/ar1.png', 'images/ar1.png']],
 ];
 ?>
 <!DOCTYPE html>
@@ -223,8 +223,8 @@ $editions = [
                 <div class="col-lg-4 col-md-6">
                     <h5 class="text-warning mb-4">Contact</h5>
                     <ul class="list-unstyled text-white-50">
-                        <li class="mb-2"><i class="fas fa-map-marker-alt me-2"></i> Dakar, Sénégal</li>
-                        <li class="mb-2"><i class="fas fa-phone me-2"></i> +221 77 123 45 67</li>
+                        <li class="mb-2"><i class="fas fa-map-marker-alt me-2"></i> Bobo, Burkina</li>
+                        <li class="mb-2"><i class="fas fa-phone me-2"></i> +226 66 17 65 60</li>
                         <li class="mb-2"><i class="fas fa-envelope me-2"></i> contact@afrotrap.com</li>
                     </ul>
                 </div>
