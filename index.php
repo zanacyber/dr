@@ -154,10 +154,10 @@ $editions = [
             <h2 class="text-center mb-5" data-aos="fade-up">Nos Partenaires</h2>
             
             <div class="partners-slider" data-aos="fade-up">
-                <div class="partner-logo"><img src="images/ar1.png" alt="Partner 1"></div>
-                <div class="partner-logo"><img src="images/ar1.png" alt="Partner 2"></div>
-                <div class="partner-logo"><img src="images/ar1.png" alt="Partner 3"></div>
-                <div class="partner-logo"><img src="images/ar1.png" alt="Partner 4"></div>
+                <div class="partner-logo"><img src="images/ar1.png" alt="LEADER PICTURE"></div>
+                <div class="partner-logo"><img src="images/ar1.png" alt="DOPE MUSIC"></div>
+                <div class="partner-logo"><img src="images/ar1.png" alt="DAES MEMORIES"></div>
+                <div class="partner-logo"><img src="images/ar1.png" alt="AKISHAM STUDIO"></div>
             </div>
         </div>
         <div class="container">
@@ -165,9 +165,9 @@ $editions = [
             <h2 class="text-center mb-5" data-aos="fade-up">Nos Sponsors</h2>
             
             <div class="partners-slider" data-aos="fade-up">
-                <div class="partner-logo"><img src="images/ar1.png" alt="Partner 1"></div>
-                <div class="partner-logo"><img src="images/ar1.png" alt="Partner 2"></div>
-                <div class="partner-logo"><img src="images/ar1.png" alt="Partner 3"></div>
+                <div class="partner-logo"><img src="images/ar1.png" alt="SODIBO"></div>
+                <div class="partner-logo"><img src="images/ar1.png" alt="AMS"></div>
+                <div class="partner-logo"><img src="images/ar1.png" alt="GOCHAP"></div>
             </div>
         </div>
     </section>
