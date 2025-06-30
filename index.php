@@ -3,7 +3,7 @@
 $editions = [
     ['year' => 2024, 'winner' => 'Big Midrah', 'location' => 'BOBO', 'image' => 'images/bigmidrah.png', 'photos' => ['images/edit20241.jpg', 'images/edit20242.jpg', 'images/edit20244.jpg']],
     ['year' => 2023, 'winner' => 'Afanooh', 'location' => 'BOBO', 'image' => 'images/qfronooh.jpg', 'photos' => ['images/edit20231.jpg', 'images/edit20232.jpg', 'images/edit20234.jpg']],
-    ['year' => 2022, 'winner' => 'Afanooh', 'location' => 'BOBO', 'image' => 'images/ar1.png', 'photos' => ['images/ar1.png', 'images/ar1.png']],
+    ['year' => 2022, 'winner' => 'Event housse', 'location' => 'BOBO', 'image' => 'images/imagededi2022.jpg', 'photos' => ['images/ar1.png', 'images/ar1.png']],
 ];
 ?>
 <!DOCTYPE html>
