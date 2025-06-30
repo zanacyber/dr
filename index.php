@@ -155,8 +155,8 @@ $editions = [
             
             <div class="partners-slider" data-aos="fade-up">
                 <div class="partner-logo"><img src="images/ar1.png" alt="LEADER PICTURE"></div>
-                <div class="partner-logo"><img src="images/ar1.png" alt="DOPE MUSIC"></div>
-                <div class="partner-logo"><img src="images/ar1.png" alt="DAES MEMORIES"></div>
+                <div class="partner-logo"><img src="images/DOPE.png" alt="DOPE MUSIC"></div>
+                <div class="partner-logo"><img src="images/davepartener.jpg" alt="DAES MEMORIES"></div>
                 <div class="partner-logo"><img src="images/ar1.png" alt="AKISHAM STUDIO"></div>
             </div>
         </div>
@@ -167,7 +167,7 @@ $editions = [
             <div class="partners-slider" data-aos="fade-up">
                 <div class="partner-logo"><img src="images/ar1.png" alt="SODIBO"></div>
                 <div class="partner-logo"><img src="images/ar1.png" alt="AMS"></div>
-                <div class="partner-logo"><img src="images/ar1.png" alt="GOCHAP"></div>
+                <div class="partner-logo"><img src="images/goschap.png" alt="GOCHAP"></div>
             </div>
         </div>
     </section>
