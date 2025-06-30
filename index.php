@@ -51,7 +51,7 @@ $editions = [
         <!-- Titre avec effet de texte dégradé animé -->
         <h1 class="hero-title animate__animated animate__fadeInDown">
             <span class="text-gradient-animated">La Bataille des MCs</span>
-            <span class="d-block display-1 fw-bold mt-2">AFRO TRAP 2024</span>
+            <span class="d-block display-1 fw-bold mt-2">AFRO TRAP 2025</span>
         </h1>
         
         <!-- Sous-titre avec mots clés animés -->
@@ -233,7 +233,7 @@ $editions = [
             <hr class="my-4 bg-secondary">
             
             <div class="text-center text-white-50 small">
-                &copy; 2024 Afro Trap Competition. Tous droits réservés.
+                &copy; 2025 Afro Trap Competition. Tous droits réservés.
             </div>
         </div>
     </footer>
