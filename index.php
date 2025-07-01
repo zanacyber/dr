@@ -83,7 +83,7 @@ $editions = [
         
         <!-- Boutons avec effets spéciaux -->
         <div class="hero-buttons animate__animated animate__fadeIn animate__delay-2s">
-            <a href="#artists" class="btn btn-pulse btn-lg px-4 me-3">
+            <a href="talent.html" class="btn btn-pulse btn-lg px-4 me-3">
                 <i class="fas fa-microphone-alt me-2"></i> Découvrez les talents
             </a>
             <a href="#vote" class="btn btn-holographic btn-lg px-4">
